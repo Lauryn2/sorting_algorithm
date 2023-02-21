@@ -1,1 +1,3 @@
-# sorting_algorithm
+### Algorithms
+Readme file for *sorting_algorithms* repository.  
+
